@@ -12,17 +12,14 @@
 • Hapus kontak Dina.
 
 ### Program
-![image](
-![image](
-![image](
-![image](
+![image](https://github.com/ZahraNurhaliza/Praktikum6/blob/main/screenshot/Latihan1.1.png)
+![image](https://github.com/ZahraNurhaliza/Praktikum6/blob/main/screenshot/Latihan1.2.png)
+![image](https://github.com/ZahraNurhaliza/Praktikum6/blob/main/screenshot/Latihan1.3.png)
+![image](https://github.com/ZahraNurhaliza/Praktikum6/blob/main/screenshot/Latihan1.4.png)
 
 ### RUN
-![image](
-![image](
-![image](
-![image](
-
+![image](https://github.com/ZahraNurhaliza/Praktikum6/blob/main/screenshot/Latihan1(RUN.1).png)
+![image](https://github.com/ZahraNurhaliza/Praktikum6/blob/main/screenshot/Latihan1(RUN.2).png)
 
 ## Praktikum
 Buat program sederhana yang akan menampilkan daftar nilai
@@ -33,20 +30,17 @@ Tampilkan Data, Cari Data)
 • Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%,
 uts: 35%, uas: 35%)
 
-### Flowchart
-![image](
-
 ### Program
-![image](
-![image](
-![image](
-![image](
+![image](https://github.com/ZahraNurhaliza/Praktikum6/blob/main/screenshot/Praktikum6.1.png)
+![image](https://github.com/ZahraNurhaliza/Praktikum6/blob/main/screenshot/Praktikum6.2.png)
+![image](https://github.com/ZahraNurhaliza/Praktikum6/blob/main/screenshot/Praktikum6.3.png)
+![image](https://github.com/ZahraNurhaliza/Praktikum6/blob/main/screenshot/Praktikum6.4.png)
 
 ### RUN
-![image](
-![image](
-![image](
-![image](
+![image](https://github.com/ZahraNurhaliza/Praktikum6/blob/main/screenshot/Praktikum6(RUN.1).png)
+![image](https://github.com/ZahraNurhaliza/Praktikum6/blob/main/screenshot/Praktikum6(RUN.2).png)
+![image](https://github.com/ZahraNurhaliza/Praktikum6/blob/main/screenshot/Praktikum6(RUN.3).png)
+![image](https://github.com/ZahraNurhaliza/Praktikum6/blob/main/screenshot/Praktikum6(RUN.4).png)
 
 ### Penjelasan
 1. Definisikan dictionary terlebih dahulu data = {}.
@@ -58,5 +52,8 @@ uts: 35%, uas: 35%)
 7. lalu untuk menampilan pilihan "cari"" gunakan fungsi 'elif' kemudian gunakan fungsi if nama in data.keys():' untuk mencari data nama kemudian gunakan fungsi 'else' untuk menampilkan data nama yang kita cari tidak ada.
 8. lalu jika ingin keluar dari program gunakan fungsi 'if' kemudian gunakan fungsi break untuk keluar dari data nilai/menghentikan program.
 9.Seleseai.
+
+### Flowchart
+![image](https://github.com/ZahraNurhaliza/Praktikum6/blob/main/screenshot/Flowchart%20.png)
 
 ### Commit dan push repository ke github.
