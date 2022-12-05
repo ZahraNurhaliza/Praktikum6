@@ -9,7 +9,7 @@
 • Tampilkan semua Nama
 • Tampilkan semua Nomor
 • Tampilkan daftar Nama dan nomornya
-• Hapus kontak Dina.
+• Hapus kontak Dina
 
 ### Program
 ![image](https://github.com/ZahraNurhaliza/Praktikum6/blob/main/screenshot/Latihan1.1.png)
